@@ -1,15 +1,14 @@
-### Hi there 👋
-
-<!--
-**hermesonbastos/hermesonbastos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Olá, bem vindo ao meu perfil 👋
 
 - 🔭 Atualmente estudando front-end ...
 - 🌱 Estudando Angular ...
-- 📫 How to reach me: ![image](https://user-images.githubusercontent.com/93688208/150527010-b849d1ea-70ab-43c4-9e79-960c838987b5.png)
+- 📫 How to reach me:
+        Instagram: @hermeson_bastos
+        Discord: HBM15#4480
+- 😄 Pronouns: ele/dele
 
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://youtu.be/HluANRwPyNo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hermesonbastos&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hermesonbastos&layout=compact&langs_count=7&theme=merko"/>
+</div>
