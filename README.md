@@ -7,7 +7,7 @@
         Instagram: @hermeson_bastos<br>
         Discord: HBM15#4480<br>
    - 😄 Pronouns: ele/dele<br></p>
-   <div alt="hmb" height="150" style="border-radius: 50px;">
+   <div alt="hmb" height="90" style="border-radius: 50px;">
    <img src="https://tvovermind.com/wp-content/uploads/2012/11/Big_Bang_GIFs_1.gif"></div>
         </div>
         
