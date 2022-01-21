@@ -11,6 +11,13 @@
    <img src="https://tvovermind.com/wp-content/uploads/2012/11/Big_Bang_GIFs_1.gif"></div>
         </div>
         
+<div style="display: inline_block"><br>
+   <img align="center" alt="hbm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+   img align="center" alt="hbm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+   <img align="center" alt="hbm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+   <img align="center" alt="hbm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+</div>   
+        
 ##
 
    <div align="center">
@@ -19,12 +26,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hermesonbastos&layout=compact&langs_count=7&theme=merko"/>
 </div>
         
-##
-  <div style="display: inline_block"><br>
-        <img align="center" alt="hbm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-        <img align="center" alt="hbm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-        <img align="center" alt="hbm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-        <img align="center" alt="hbm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-        <img align="center" alt="hbm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-</div>   
  
