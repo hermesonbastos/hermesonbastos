@@ -1,12 +1,12 @@
 ### Olá, bem-vindo ao meu perfil, me chamo Hermeson Bastos 👋
 
+   <div style="display: inline_block">
 - 🔭 Atualmente estudando front-end ...
 - 🌱 Estudando Angular ...
 - 📫 How to reach me:
         Instagram: @hermeson_bastos
         Discord: HBM15#4480
 - 😄 Pronouns: ele/dele
-        <div style="display: inline_block">
             <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/736x/45/32/6a/45326abccfa7f622a239be04937e2bb4.jpg">
         </div>
         
