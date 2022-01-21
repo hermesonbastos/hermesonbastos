@@ -7,8 +7,8 @@
         Instagram: @hermeson_bastos<br>
         Discord: HBM15#4480<br>
    - 😄 Pronouns: ele/dele<br></p>
-
-         <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/7224193a07ab8dcea162e252b9e131a0/tumblr_mjrc7570oF1s2sgz9o5_400.gifv">
+   <div align="right" alt="Rafa-pic" height="150" style="border-radius: 50px;">
+   <img src="https://64.media.tumblr.com/7224193a07ab8dcea162e252b9e131a0/tumblr_mjrc7570oF1s2sgz9o5_400.gifv"></div>
         </div>
         
 ##
