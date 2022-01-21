@@ -8,11 +8,11 @@
 - 😄 Pronouns: ele/dele
 ##
 
-   <div style = "display: flex; flex-direction: row">
-        <a href="https://youtu.be/HluANRwPyNo">
-        <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?    username=hermesonbastos&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-        <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hermesonbastos&layout=compact&langs_count=7&theme=merko"/>
-   </div>
+   <div align="center">
+  <a href="https://github.com/hermesonbastos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hermesonbastos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hermesonbastos&layout=compact&langs_count=7&theme=dracula"/>
+</div>
         
 ##
   <div style="display: inline_block"><br>
