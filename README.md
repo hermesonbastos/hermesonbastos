@@ -1,6 +1,6 @@
 ### Olá, bem-vindo ao meu perfil, me chamo Hermeson Bastos 👋
 
-   <div style="display: inline_block">
+   <div style="display: flex">
    <p>- 🔭 Atualmente estudando front-end ...<br>
       - 🌱 Estudando Angular ...<br>
    - 📫 How to reach me:<br>
