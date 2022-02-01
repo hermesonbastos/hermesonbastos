@@ -6,7 +6,7 @@
    - 📫 How to reach me:<br>
         Instagram: @hermeson_bastos<br>
         Discord: HBM15#4480<br></p>
-   <div alt="hmb" height="50em" style="border-radius: 50px;">
+   <div alt="hmb" height="300px" style="border-radius: 50px;">
    <img src="https://tvovermind.com/wp-content/uploads/2012/11/Big_Bang_GIFs_1.gif"></div>
         </div>
         
