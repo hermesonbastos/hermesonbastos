@@ -7,8 +7,6 @@
         Instagram: @hermeson_bastos<br>
         Discord: HBM18#4480<br></p>
    <div alt="hmb" height="300px" style="border-radius: 50px;">
-   <img src="https://tvovermind.com/wp-content/uploads/2012/11/Big_Bang_GIFs_1.gif"></div>
-        </div>
         
 <div style="display: inline_block"><br>
    <img align="center" alt="hbm" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
