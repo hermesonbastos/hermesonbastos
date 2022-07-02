@@ -16,7 +16,6 @@
       
 <div style="display: inline_block;">
 <img src="https://github-readme-stats.vercel.app/api?username=hermesonbastos&show_icons=true&theme=radical">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hermesonbastos&langs_count=8">
 </div>
 
  
