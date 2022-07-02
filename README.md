@@ -8,10 +8,12 @@
         Discord: HBM18#4480<br></p>
    <div alt="hmb" height="300px" style="border-radius: 50px;">
         
-<div style="display: inline_block"><br>
+<div style="display: inline_block;"><br>
    <img align="center" alt="hbm" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
    <img align="center" alt="hbm" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
    <img align="center" alt="hbm" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 </div>   
-        
+<div style="display: block;">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hermesonbastos)](https://github.com/anuraghazra/github-readme-stats)
+</div>
  
