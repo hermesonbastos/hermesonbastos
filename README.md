@@ -16,7 +16,7 @@
       
 <div style="display: inline_block;">
 <img src="https://github-readme-stats.vercel.app/api?username=hermesonbastos&show_icons=true&theme=radical">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)]
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hermesonbastos&langs_count=8">
 </div>
 
  
