@@ -14,7 +14,7 @@
    <img align="center" alt="hbm" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 </div>   
       
-<div style="display: block;">
+<div style="display: block; margin-top: 20px;">
    <img src="https://github-readme-stats.vercel.app/api?username=hermesonbastos&show_icons=true&theme=radical">
 </div>
  
