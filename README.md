@@ -9,7 +9,7 @@
    <div alt="hmb" height="300px" style="border-radius: 50px;">
         
 <div style="display: inline_block;"><br>
-   <img align="center" alt="hbm" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/HTML/HTML-original.svg">
+   <img align="center" alt="hbm" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
    <img align="center" alt="hbm" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
    <img align="center" alt="hbm" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
    <img align="center" alt="hbm" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
