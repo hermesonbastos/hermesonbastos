@@ -14,6 +14,6 @@
    <img align="center" alt="hbm" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 </div>   
 <div style="display: block;">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hermesonbastos)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats.vercel.app/api?username=hermesonbastos
 </div>
  
