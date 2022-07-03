@@ -16,7 +16,7 @@
    <img align="center" alt="hbm" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div><br>
       
-<div style="display: inline_block; width: 100px;">
+<div style="display: inline_block; width: 500px;">
 <img src="https://github-readme-stats.vercel.app/api?username=hermesonbastos&show_icons=true&theme=radical">
 </div>
 
