@@ -4,7 +4,8 @@
    <p>- 🔭 Front-end ...<br>
       - 🌱 Estudando React JS ...<br>
    - 📫 How to reach me:<br>
-        Instagram: @hermeson_bastos<br>
+        Linkedin: <a href="https://www.linkedin.com/in/hermeson-bastos-632578226/">Hermeson Bastos</a><br>
+        Instagram: <a href="https://www.instagram.com/hermeson_bastos/">@hermeson_bastos</a><br>
         Discord: HBM18#4480<br></p>
    <div alt="hmb" height="300px" style="border-radius: 50px;">
         
