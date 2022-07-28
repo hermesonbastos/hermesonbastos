@@ -18,6 +18,6 @@
 </div><br>
 
 <img style="height: 200px;" width="45%" src="https://github-readme-stats.vercel.app/api?username=hermesonbastos&show_icons=true&theme=radical">
-<img align="right" width="45%" style="height: 200px; margin-left: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hermesonbastos&theme=radical&layout=compact">
+
 
  
