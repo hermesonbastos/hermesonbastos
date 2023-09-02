@@ -9,7 +9,7 @@
         Discord: HBM18#4480<br></p>
    <div alt="hmb" height="300px" style="border-radius: 50px;">
         
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,styledcomponents,git,java,c++" />
   </a>
