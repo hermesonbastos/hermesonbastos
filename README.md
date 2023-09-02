@@ -9,14 +9,11 @@
         Discord: HBM18#4480<br></p>
    <div alt="hmb" height="300px" style="border-radius: 50px;">
         
-<div style="display: inline_block;"><br>
-   <img align="center" alt="hbm" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-   <img align="center" alt="hbm" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-   <img align="center" alt="hbm" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-   <img align="center" alt="hbm" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/nextjs-original.svg">
-   <img align="center" alt="hbm" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-   <img align="center" alt="hbm" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-</div><br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 <img style="height: 200px;" width="45%" src="https://github-readme-stats.vercel.app/api?username=hermesonbastos&show_icons=true&theme=radical">
 <img width="45%" style="height: 198px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hermesonbastos&theme=radical&layout=compact">
