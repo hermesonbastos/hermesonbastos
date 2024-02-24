@@ -4,7 +4,7 @@
    <p>- 🔭 Front-end ...<br>
       - 🌱 Estudando React JS ...<br>
         Linkedin: <a href="https://www.linkedin.com/in/hermeson-bastos-632578226/">Hermeson Bastos</a><br>
-        HackerRank: <a href="[https://www.instagram.com/hermeson_bastos/](https://www.hackerrank.com/profile/hermesonbastos)">hermesonbastos</a><br>
+        HackerRank: <a href="https://www.hackerrank.com/profile/hermesonbastos">hermesonbastos</a><br>
         Instagram: <a href="https://www.instagram.com/hermeson_bastos/">@hermeson_bastos</a><br>
         Discord: HBM18#4480<br></p>
    <div alt="hmb" height="300px" style="border-radius: 50px;">
