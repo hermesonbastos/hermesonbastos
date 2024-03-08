@@ -15,9 +15,11 @@
   </a>
 </p>
 
-<img style="height: 150px;" width="45%" src="https://github-readme-stats.vercel.app/api?username=hermesonbastos&show_icons=true&theme=radical">
-<img style="height: 150px;" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hermesonbastos&theme=radical&layout=compact">
-[![GitHub Streak](https://streak-stats.demolab.com?user=hermesonbastos&theme=dracula&border_radius=8&card_width=420&hide_longest_streak=true)](https://git.io/streak-stats)
+<div style="display: flex;">
+  <img style="height: 150px;" src="https://github-readme-stats.vercel.app/api?username=hermesonbastos&show_icons=true&theme=radical">
+  <img style="height: 150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hermesonbastos&theme=radical&layout=compact">
+  <img style="height: 150px;" src="https://streak-stats.demolab.com?user=hermesonbastos&theme=radical&border_radius=8&card_width=420&hide_longest_streak=true" alt="GitHub Streak" />
+</div>
 
 
  
