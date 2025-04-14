@@ -1,8 +1,6 @@
 ### Olá, bem-vindo ao meu perfil, me chamo Hermeson Bastos 👋
 
    <div style="display: flex; flex-direction: row;">
-   <p>- 🔭 Front-end ...<br>
-      - 🌱 Estudando React JS ...<br>
         Linkedin: <a href="https://www.linkedin.com/in/hermeson-bastos-632578226/">Hermeson Bastos</a><br>
         HackerRank: <a href="https://www.hackerrank.com/profile/hermesonbastos">hermesonbastos</a><br>
         Instagram: <a href="https://www.instagram.com/hermeson_bastos/">@hermeson_bastos</a><br>
