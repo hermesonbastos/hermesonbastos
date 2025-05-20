@@ -2,8 +2,7 @@
 
    <div style="display: flex; flex-direction: row;">
         Linkedin: <a href="https://www.linkedin.com/in/hermeson-bastos-632578226/">Hermeson Bastos</a><br>
-        HackerRank: <a href="https://www.hackerrank.com/profile/hermesonbastos">hermesonbastos</a><br>
-   <div alt="hmb" height="300px" style="border-radius: 50px;">
+   <div alt="hmb" height="300px" style="border-radius: 50px; margin-top: 20px;">
         
 <p>
   <a href="https://skillicons.dev">
