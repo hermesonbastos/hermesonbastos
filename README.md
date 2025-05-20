@@ -4,7 +4,7 @@
         Linkedin: <a href="https://www.linkedin.com/in/hermeson-bastos-632578226/">Hermeson Bastos</a><br>
    <div alt="hmb" height="300px" style="border-radius: 50px; margin-top: 20px;">
         
-<p>
+<p style="margin-top: 20px;">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,laravel,typescript,figma" />
   </a>
